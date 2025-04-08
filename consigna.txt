@@ -1,0 +1,57 @@
+Learning Goals:
+
+By completing this assignment, you will learn the basics of JavaScript and jQuery and how to use them to create interactive and dynamic web pages. You will learn about variables, data types, operators, control structures, functions, event handling, and advanced DOM manipulation. You will also learn how to use jQuery to simplify and enhance your JavaScript code.
+
+Tasks:
+
+Interactive image gallery: Design an image gallery where users can click on thumbnails to view larger images. Use JavaScript and jQuery to handle the image transitions, such as fading or sliding effects.
+
+Set up the HTML structure:
+
+Create a container for the image gallery.
+
+Use appropriate HTML tags for the gallery layout, such as <div>, <ul>, and <li>.
+
+Add thumbnail images to the HTML structure with unique identifiers.
+
+Load and display thumbnail images:
+
+Embed or dynamically load thumbnail images into the HTML structure.
+
+Ensure each thumbnail has a unique identifier or class for easy identification.
+
+Implement event handling:
+
+Attach click event listeners to the thumbnail images using JavaScript and jQuery.
+
+Capture the click event and execute a function to handle the image transition.
+
+Create image transitions:
+
+Define JavaScript functions to handle image transitions, such as fading or sliding effects.
+
+Utilize jQuery methods, such as fadeIn(), fadeOut(), slideUp(), or slideDown(), for animated transitions.
+
+Test and refine:
+
+Test the image gallery to ensure clicking on thumbnails displays the larger images with the desired transitions.
+
+Debug any issues that arise during testing.
+
+Refine the code and make improvements as necessary to enhance the user experience.
+
+Granding Criteria Overview
+
+Does the web page include appropriate use of JavaScript variables, data types, and operators?
+
+Does the web page have a clear and organized structure, including control structures and functions?
+
+Does the web page incorporate event handling to make it interactive?
+
+Does the web page incorporate advanced JavaScript techniques, such as closures or callbacks?
+
+Does the web page incorporate jQuery to simplify and enhance the JavaScript code?
+
+Does the web page demonstrate knowledge of jQuery selectors and methods?
+
+Does the web page include custom animations or effects using jQuery?
