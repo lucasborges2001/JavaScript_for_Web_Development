@@ -9,4 +9,4 @@ document.addEventListener('DOMContentLoaded', () => {
         largeImage.alt = this.alt;
       });
     }
-  });
+});
